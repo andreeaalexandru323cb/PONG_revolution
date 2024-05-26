@@ -72,7 +72,7 @@ Conexiuni joystick ↔ Arduino UNO R3:
 - Controlul buzzer-ului pentru semnalizarea evenimentelor de joc.
 - Controlul LED-ului pentru indicarea stării jocului.
 - Surse şi funcţii implementate:
--> setup(): Funcția de inițializare a ecranului, a variabilelor globale și a pinilor de intrare/ieșire.
+-> setup(): Funcția de inițializare a ecranului, a variabilelor globale și a pinilor de intrare/ieșire.\n
 -> loop(): Funcția principală care rulează continuu și gestionează logica jocului, inclusiv mișcarea paletelor, mișcarea bilei, detecția coliziunii, actualizarea scorului și resetarea bilei.
 -> resetBall(): Funcția pentru resetarea poziției bilei și a direcției acesteia.
 -> updateScore(): Funcția pentru actualizarea scorului afișat pe ecran.
