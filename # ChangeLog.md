@@ -1,6 +1,6 @@
 # ChangeLog
 
-## [1.1.0] - 2024-05-26
+## [1.1.0] - 2024-05-25
 ### Adăugări
 - Adăugare logică pentru power-up-uri: tip verde (+2 puncte) și tip roșu (-2 puncte).
 - Adăugare feedback vizual (LED-uri) și sonor (buzzer) pentru power-up-uri și evenimente de joc.
